@@ -1,2 +1,4 @@
-package ua.com.alevel;public class Test {
+package ua.com.alevel;
+
+public class Test {
 }
